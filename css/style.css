@@ -1,0 +1,164 @@
+.conteiner {
+     width: 1165px;
+     margin: 0 auto;
+    
+}
+
+header {
+position: fixed;
+top: 0%;
+width: 100%;
+z-index: 50; background: #F1F1F1;
+} 
+
+
+
+li {
+    color: #000;
+    font-family: Roboto;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 35px;
+    }
+
+.kiki { display: inline-block;}
+ 
+.profile { vertical-align: middle;}
+
+h1 {
+    color: #000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 76px;
+    margin-bottom: 27px;
+}
+
+.card {
+    display: inline-block;
+    position: relative; 
+}
+
+h2 { position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    ;}
+
+.card2 {  
+    padding-left: 37px;
+    padding-top: 68px;
+    width: 362px;
+    height: 186px;;
+    background: #FFF;
+   
+    
+     
+} 
+
+p { color: #8A8787;
+    font-family: Roboto;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+    line-height: 2.1;
+}
+
+.cloc {display: inline-block; 
+margin-top: 6px; 
+
+}
+
+.m2 {display: inline-block; 
+    vertical-align:4px ;
+} 
+
+.maincard {  display: inline-block; margin-right: 31px; } 
+
+.card3 {display: inline-block;}
+
+h6 {color: #000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 57px;
+    margin-bottom: 30px;
+}
+
+.prple {  display: inline-block; position: relative; margin-bottom: 42px;}
+
+h4 {color: #FFF;
+    position: absolute;
+    top: 50%;
+    left: 270px;
+    
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;}
+
+.bigfotos {display: inline-block;
+width: 758px;
+vertical-align: top;
+margin-right: 36px;
+}
+
+.smolfotos {  
+    width: 362px; display: inline-block;
+    vertical-align: top;
+
+    } 
+ 
+.mini {margin-bottom: 100px ;}    
+
+footer {height: 201px; background: #243043;}
+
+.sd{ color: #818687;
+
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+    margin-bottom: 15px;
+}
+
+.nav1 {margin-right: 40px; margin-top: 50px; display: inline-block;;}
+
+.nav2 {margin-right: 40px; margin-top: 50px; display: inline-block;}
+
+.nav3 {margin-top: 50px; display: inline-block;}
+
+.cent { color: #FFF;
+
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+    position: relative;
+    bottom: 80px;
+}
+
+.qart {position: relative; 
+      bottom: 100px;
+    left: 1126px;      
+       
+} 
+body { background: #F1F1F1;}
+
+
+
